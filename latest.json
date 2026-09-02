@@ -1,7 +1,7 @@
 {
   "version": "v1.8.3",
   "notes": "DupCleaner v1.8.3: 软件更名为「小能重复文件清理器」；重复判定提示增强；优先删回收站跳过0字节重复组",
-  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.3/小能重复文件清理器.exe",
+  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.3/DupCleaner.exe",
   "size": 38736460,
   "sha256": "5728e172d9253075ecba69fe2a5156c9cb9f7edcd93739c76cbaa682732d6c9d",
   "mirrors": []
