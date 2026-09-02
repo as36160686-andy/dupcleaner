@@ -1,8 +1,8 @@
 {
-  "version": "v1.8.0",
-  "notes": "DupCleaner v1.8.0: 快速/全量精度提示、关于对话框、GitHub自动更新、蓝色图标",
-  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.0/DupCleaner.exe",
-  "size": 38736909,
-  "sha256": "28e23c19c3ea6fab8f64425e01ca6f1030d9bd584dbd6382809ac28def4e22e5",
+  "version": "v1.8.1",
+  "notes": "DupCleaner v1.8.1: 内置默认更新源(开箱即用自动更新)，无需手动填写",
+  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.1/DupCleaner.exe",
+  "size": 38734941,
+  "sha256": "dcfd23b5d8cfb00e7bad1d1167c1cb0227ec246af359d3fb9ba21b351c187014",
   "mirrors": []
 }
