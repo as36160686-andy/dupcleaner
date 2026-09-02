@@ -1,8 +1,8 @@
 {
-  "version": "v1.8.1",
-  "notes": "DupCleaner v1.8.1: 内置默认更新源(开箱即用自动更新)，无需手动填写",
-  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.1/DupCleaner.exe",
-  "size": 38734941,
-  "sha256": "dcfd23b5d8cfb00e7bad1d1167c1cb0227ec246af359d3fb9ba21b351c187014",
+  "version": "v1.8.2",
+  "notes": "DupCleaner v1.8.2: 启动后自动后台检查更新；标题显示有可用更新提示；关于对话框移除更新源输入框，更新源内置后台自动连GitHub",
+  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.2/DupCleaner.exe",
+  "size": 38736211,
+  "sha256": "a298521ed79a89f1bab6a6ffa683fb68d5fac7f898b77be9d977641f6a38a577",
   "mirrors": []
 }
