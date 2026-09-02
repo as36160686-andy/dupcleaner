@@ -1,8 +1,8 @@
 {
-  "version": "v1.8.3",
-  "notes": "DupCleaner v1.8.3: 软件更名为「小能重复文件清理器」；重复判定提示增强；优先删回收站跳过0字节重复组",
-  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.3/DupCleaner.exe",
-  "size": 38736460,
-  "sha256": "5728e172d9253075ecba69fe2a5156c9cb9f7edcd93739c76cbaa682732d6c9d",
+  "version": "v1.8.6",
+  "notes": "v1.8.6 性能优化：修复快速扫描卡死——采样指纹由128KB原始字节改为16字节定长摘要（消除内存爆炸与树控件超长文本布局卡顿）；枚举改用单次scandir+stat并全程缓存size/mtime（消除每文件两次系统调用）；主线程渲染改用mtime缓存与保护集缓存（杜绝主线程I/O风暴）；建树改为25ms时间预算限批+5000组上限（统计仍全量累计）。",
+  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.6/DupCleaner.exe",
+  "size": 38740015,
+  "sha256": "05c23c48cf7716422b7c0f91c9b57955d10826e7874793ca91a728867d3c8989",
   "mirrors": []
 }
