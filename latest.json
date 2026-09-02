@@ -1,8 +1,8 @@
 {
-  "version": "v1.8.2",
-  "notes": "DupCleaner v1.8.2: 启动后自动后台检查更新；标题显示有可用更新提示；关于对话框移除更新源输入框，更新源内置后台自动连GitHub",
-  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.2/DupCleaner.exe",
-  "size": 38736211,
-  "sha256": "a298521ed79a89f1bab6a6ffa683fb68d5fac7f898b77be9d977641f6a38a577",
+  "version": "v1.8.3",
+  "notes": "DupCleaner v1.8.3: 软件更名为「小能重复文件清理器」；重复判定提示增强；优先删回收站跳过0字节重复组",
+  "exe_url": "https://github.com/as36160686-andy/dupcleaner/releases/download/v1.8.3/小能重复文件清理器.exe",
+  "size": 38736460,
+  "sha256": "5728e172d9253075ecba69fe2a5156c9cb9f7edcd93739c76cbaa682732d6c9d",
   "mirrors": []
 }
